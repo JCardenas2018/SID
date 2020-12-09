@@ -1,10 +1,10 @@
-package za.co.superdev.discovery;
+package za.co.superdev.crm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SuperdevEurekaServerApplicationTests {
+class SuperdevCrmCustomerApplicationTests {
 
 	@Test
 	void contextLoads() {
