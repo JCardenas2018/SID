@@ -1,1 +1,1 @@
-# superdev-eureka-server
+# eureka-server
