@@ -1,10 +1,10 @@
-package za.co.superdev.crm;
+package za.co.superdev.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SuperdevCrmCustomerApplicationTests {
+class SuperdevZuulApplicationTests {
 
 	@Test
 	void contextLoads() {
